@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris! My GitHub handles is: @cwebster85
 - 👀 My main hobbies and interests are coding, music, football, languages (Chinese!) and travel.
 - 🌱 I am proficient in JS, Python and build mini-apps in my free time for fun.
-- 💞️ I’m interested in anyone who has a fun idea of an app to build, feel free to get in touch!
+- 💞️ I’m interested in anyone who has a fun idea of an app to build together, feel free to get in touch!
 - 📫 Reach out to me on LinkedIn: https://www.linkedin.com/in/cwebster85/
